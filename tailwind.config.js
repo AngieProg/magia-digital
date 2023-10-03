@@ -42,7 +42,11 @@ export default {
       },
       screens: {
         "wide": "1440px"
-      }
+      },
+      listStyleImage: {
+        gold: "url('assets/img/gold.png')",
+        diamante: "url('assets/img/diamante.png')",
+      },
     },
   },
   plugins: [],

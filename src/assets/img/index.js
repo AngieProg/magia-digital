@@ -25,6 +25,10 @@ import g6 from "./g6.png";
 import g7 from "./g7.png";
 import g8 from "./g8.png";
 import g9 from "./g9.png";
+import golden from "./gold.png";
+import diamante from "./diamante.png";
+import precioGolden from "./precioGolden.png";
+import precioDiamante from "./precioDiamante.png";
 
 
 export{
@@ -50,6 +54,6 @@ export{
     g2,
     g3,
     g4,
-    g5,g6,g7,g8,g9
+    g5,g6,g7,g8,g9, golden, diamante, precioGolden, precioDiamante
 }
 
