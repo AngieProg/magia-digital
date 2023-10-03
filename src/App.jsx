@@ -1,7 +1,17 @@
+import PaginaPrincipal from "./sections/PaginaPrincipal";
+import Sobre from "./sections/Sobre";
+// import Contador from "./sections/Contador";
+// import Ejemplos from "./sections/Ejemplos";
+// import ElementosMagicos from "./sections/ElementosMagicos";
+
 export default function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <main>
+      <PaginaPrincipal /> 
+      <Sobre />
+      {/* <Contador />
+      <Ejemplos />
+      <ElementosMagicos /> */}
+    </main>
   )
 }
